@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3A0F172A%2C55%3A1E3A8A%2C100%3A0891B2&amp;height=230&amp;section=header&amp;text=Muhammadvadud&amp;fontSize=54&amp;fontColor=F8FAFC&amp;fontAlignY=38&amp;desc=Backend+Developer&amp;descSize=19&amp;descAlignY=60&amp;animation=fadeIn" width="100%" alt="Muhammadvadud — Backend Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3A0F172A%2C55%3A1E3A8A%2C100%3A0891B2&amp;height=230&amp;section=header&amp;text=Muhammadvadud&amp;fontSize=54&amp;fontColor=F8FAFC&amp;fontAlignY=38&amp;desc=Backend+Developer&amp;descSize=19&amp;descAlignY=60&amp;animation=twinkling" width="100%" alt="Muhammadvadud — Backend Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=21&amp;duration=3200&amp;pause=1400&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=780&amp;height=65&amp;lines=Salom%21+Profilimga+xush+kelibsiz%3BPython%2C+Django+va+Telegram+botlar%3BYangi+narsalarni+o%E2%80%98rganishni+yoqtiraman" width="100%" alt="Salom! Profilimga xush kelibsiz. Python, Django va Telegram botlar." />
 
-[![Telegram](https://img.shields.io/badge/Telegram-0F172A?style=for-the-badge&logo=telegram&logoColor=67E8F9)](https://t.me/GaniboyevDev_08) [![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=67E8F9)](mailto:gmuhammadvadud@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=67E8F9)](https://www.instagram.com/ganiboyevdev/)
-
 </div>
 
-### 👋 Men haqimda
+### <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width="30" alt="Salom" /> Men haqimda
+
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="260" alt="Kompyuterda kod yozish animatsiyasi" />
 
 Salom! Men **Muhammadvadud**. Asosan backend dasturlash, Telegram botlar va server arxitekturasi bilan shug‘ullanaman.
 
@@ -17,6 +17,8 @@ Salom! Men **Muhammadvadud**. Asosan backend dasturlash, Telegram botlar va serv
 - 🐧 Linux, Docker va serverlar bilan ishlashga qiziqaman.
 - ✍️ Bo‘sh vaqtimda maqola yozaman va yangi narsalarni o‘rganaman.
 - 💬 Dasturlash haqida suhbatlashish yoki fikr almashish uchun bemalol yozing.
+
+<br clear="both" />
 
 ### 🛠 Texnologiyalar
 
@@ -38,6 +40,6 @@ Salom! Men **Muhammadvadud**. Asosan backend dasturlash, Telegram botlar va serv
 
 **Bog‘lanish uchun**
 
-[Telegram](https://t.me/GaniboyevDev_08) · [gmuhammadvadud@gmail.com](mailto:gmuhammadvadud@gmail.com) · [Instagram](https://www.instagram.com/ganiboyevdev/)
+[![Telegram](https://img.shields.io/badge/Telegram-0F172A?style=for-the-badge&logo=telegram&logoColor=67E8F9)](https://t.me/GaniboyevDev_08) [![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=67E8F9)](mailto:gmuhammadvadud@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=67E8F9)](https://www.instagram.com/ganiboyevdev/)
 
 </div>
